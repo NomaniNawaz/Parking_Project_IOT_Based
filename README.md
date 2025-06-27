@@ -54,7 +54,7 @@ Images and documents
 | Frontend | Backend | Database | UI Styling |
 |----------|---------|----------|------------|
 | React.js | Node.js / Firebase (optional) |Supabase | Tailwind CSS |
-| Vite     | Express.js (for backend routes) | LocalStorage (for demo) | ShadCN Components |
+| Vite     | Express.js (for backend routes) | LocalStorage (for demo) | 
 
 ---
 
