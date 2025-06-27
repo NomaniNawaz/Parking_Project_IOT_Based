@@ -77,6 +77,12 @@ Images and documents
 - Remove test/demo data
 - Logout to home page
 
+### Land Registration Panel
+- 🏠 Land/Slot Registration System with Admin Approval
+- 🧾 Document & Image Upload with Validation
+- 🔐 Secure and Verified Listings Only
+
+
 
  ### Problem Statement / Motivation
 
